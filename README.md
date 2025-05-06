@@ -1,1 +1,3 @@
-# so-you-think-you-know-git
+# Notes
+
+A collection of my notes.
